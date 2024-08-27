@@ -12,14 +12,14 @@
 ### • Converter data-hora global para loca
 ### • Obter dados de uma data-hora local 
 ### • Data-hora local ➞ dia, mês, ano, horár
-
-
-Principais tipos Java (versão 8+) • Data-hora local
-LocalDate
+## Principais tipos Java (versão 8+) 
+### • Data-hora local
+LocalDate <br>
 LocalDateTime
-• Data-hora global
-Instant • Duração
+### • Data-hora global
+Instant 
+### • Duração
 Duration
-• Outros
-ZoneId
+### • Outros
+ZoneId <br>
 ChronoUnit
