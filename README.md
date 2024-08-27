@@ -23,3 +23,14 @@ Duration
 ### • Outros
 ZoneId <br>
 ChronoUnit
+
+## Padrão ISO 8601
+### Data-[hora] local:
+2022-07-21 <br>
+2022-07-21T14:52 <br>
+2022-07-22T14:52:09 <br>
+2022-07-22T14:52:09.4073
+### Data-hora global:
+2022-07-23T14:52:09Z <br>
+2022-07-23T14:52:09.254935Z <br>
+2022-07-23T14:52:09-03:00
